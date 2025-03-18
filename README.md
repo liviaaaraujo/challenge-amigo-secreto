@@ -16,6 +16,19 @@ FUNCIONALIDADES DO PROJETO:
    .Caso não tenha nenhum nome na lista e tente sortear, aparecerá uma mensagem na tela dizendo que não tem amigos para sortear.
 
 
+TECNOLOGIAS UTILIZADAS:
+
+   .HTML: para a estrutura da página.
+   .CSS: para estilização da página.
+   .JavaScript: para a lógica do projeto.
+
+
+IMAGEM DE COMO É A PÁGINA INICIAL:
+![Captura de tela 2025-03-18 133821](https://github.com/user-attachments/assets/c2455c73-71e4-4be9-8421-cf0be14a66e3)
+
+   
+
+
 
    
    
