@@ -14,5 +14,9 @@ FUNCIONALIDADES DO PROJETO:
 3- Sortear amigos:
    .Ao clicar no botão "Sortear amigo", o programa selecionará um nome na lista de forma aleatória e mostrará na tela.
    .Caso não tenha nenhum nome na lista e tente sortear, aparecerá uma mensagem na tela dizendo que não tem amigos para sortear.
+
+
+Mostrando na prática o funcionamento do projeto:
+<!-- Failed to upload "Amigo Secreto - Google Chrome 2025-03-18 13-07-19.mp4" -->
    
    
